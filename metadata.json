@@ -1,0 +1,6 @@
+{
+  "name": "Chim Bay - Flappy Bird",
+  "description": "Trò chơi arcade Chim Bay theo phong cách Flappy Bird chơi trực tiếp trên trình duyệt với đồ họa sắc nét và âm thanh sống động.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
